@@ -1,0 +1,15 @@
+C:\Users\Gladys\source\repos\UAS_PV_20_06\UAS_PV_20_06\bin\Debug\UAS_PV_20_06.exe.config
+C:\Users\Gladys\source\repos\UAS_PV_20_06\UAS_PV_20_06\bin\Debug\UAS_PV_20_06.exe
+C:\Users\Gladys\source\repos\UAS_PV_20_06\UAS_PV_20_06\bin\Debug\UAS_PV_20_06.pdb
+C:\Users\Gladys\source\repos\UAS_PV_20_06\UAS_PV_20_06\obj\Debug\UAS_PV_20_06.csprojAssemblyReference.cache
+C:\Users\Gladys\source\repos\UAS_PV_20_06\UAS_PV_20_06\obj\Debug\UAS_PV_20_06.Checkout.resources
+C:\Users\Gladys\source\repos\UAS_PV_20_06\UAS_PV_20_06\obj\Debug\UAS_PV_20_06.employee.resources
+C:\Users\Gladys\source\repos\UAS_PV_20_06\UAS_PV_20_06\obj\Debug\UAS_PV_20_06.form.resources
+C:\Users\Gladys\source\repos\UAS_PV_20_06\UAS_PV_20_06\obj\Debug\UAS_PV_20_06.Form1.resources
+C:\Users\Gladys\source\repos\UAS_PV_20_06\UAS_PV_20_06\obj\Debug\UAS_PV_20_06.Form2.resources
+C:\Users\Gladys\source\repos\UAS_PV_20_06\UAS_PV_20_06\obj\Debug\UAS_PV_20_06.menu.resources
+C:\Users\Gladys\source\repos\UAS_PV_20_06\UAS_PV_20_06\obj\Debug\UAS_PV_20_06.Properties.Resources.resources
+C:\Users\Gladys\source\repos\UAS_PV_20_06\UAS_PV_20_06\obj\Debug\UAS_PV_20_06.csproj.GenerateResource.cache
+C:\Users\Gladys\source\repos\UAS_PV_20_06\UAS_PV_20_06\obj\Debug\UAS_PV_20_06.csproj.CoreCompileInputs.cache
+C:\Users\Gladys\source\repos\UAS_PV_20_06\UAS_PV_20_06\obj\Debug\UAS_PV_20_06.exe
+C:\Users\Gladys\source\repos\UAS_PV_20_06\UAS_PV_20_06\obj\Debug\UAS_PV_20_06.pdb
